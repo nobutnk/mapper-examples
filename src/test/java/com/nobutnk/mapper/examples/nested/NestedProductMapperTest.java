@@ -10,7 +10,6 @@ import org.junit.Test;
 import org.mapstruct.factory.Mappers;
 
 import com.nobutnk.mapper.examples.nested.dto.ChildSource;
-import com.nobutnk.mapper.examples.nested.dto.NestedProductMapper;
 import com.nobutnk.mapper.examples.nested.dto.ParentDestination;
 import com.nobutnk.mapper.examples.nested.dto.ParentSource;
 import com.nobutnk.mapper.examples.nested.dto.Product;
