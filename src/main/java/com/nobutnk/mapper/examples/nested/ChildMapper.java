@@ -1,9 +1,12 @@
-package com.nobutnk.mapper.examples.nested.dto;
+package com.nobutnk.mapper.examples.nested;
 
 import java.util.List;
 
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
+
+import com.nobutnk.mapper.examples.nested.dto.ChildDestination;
+import com.nobutnk.mapper.examples.nested.dto.ChildSource;
 
 @Mapper
 public interface ChildMapper {
